@@ -39,6 +39,6 @@ describe('#toString', () => {
 
 describe('#toArray', () => {
   test('should return an array of node values', () => {
-    expect(kAryTree.toArray(kAryTree)).toEqual([1, 4, 3, 7, 6, 8, 5, 2]);
+    expect(kAryTree.toArray(kAryTree)).toEqual([1, 4, 3, 7, 6, 8, 5,git  2]);
   });
 });
